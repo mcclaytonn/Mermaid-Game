@@ -1,3 +1,4 @@
+""Mermaid
 ""Start
     A(("The Guessing Game")) --> n8(("Guess A Number 1 to 1000"))
     n8 --> bB["Computer Generates Number"]
