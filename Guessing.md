@@ -1,4 +1,4 @@
-flowchart TD
+""Start
     A(("The Guessing Game")) --> n8(("Guess A Number 1 to 1000"))
     n8 --> bB["Computer Generates Number"]
     bB --> np("You Will Have 10 Guesses. Enter Your First Guess.")
@@ -21,5 +21,4 @@ nq-->by(("Game Evaluates Number of Guesses"))
     style np stroke:#00C853,stroke-width:4px,stroke-dasharray: 0
     style n7 stroke-width:4px,stroke-dasharray: 0,fill:#BBDEFB,stroke:#2962FF
     style nq stroke-width:4px,stroke-dasharray: 0,stroke:#FF6D00,fill:#FFE0B2
-
-
+""Finish 
